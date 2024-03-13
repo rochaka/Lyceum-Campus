@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LyceumCampus">
+    <test verbose="2" preserve-order="true" name="C:/Users/Staff/Desktop/Lyceumcampus/src/test/java/Test_Suite">
+        <classes>
+            <class name="Test_Suite.ABE_Level.Business_Management">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.ABE_Level.Human_Resources">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.ABE_Level.Marketing">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Bachelor_of_Education.Bachelor_of_Education">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Contact_Us.ABE_UK">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="Massage"/>
+                    <include name="change"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Contact_Us.Bachelor_of_Education">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="Massage"/>
+                    <include name="change"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Contact_Us.Deakin_Pathway">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="Massage"/>
+                    <include name="change"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Contact_Us.Global_Foundation">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="Massage"/>
+                    <include name="change"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Contact_Us.Teacher_Education">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="Massage"/>
+                    <include name="change"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Deakin_Pathway.Business_Analytics">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Deakin_Pathway.Commerce">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Deakin_Pathway.Management">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Deakin_Pathway.Sport_Management">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Foundation.Busness">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="Shift"/>
+                    <include name="Fill"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Foundation.Secince">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="Shift"/>
+                    <include name="Fill"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Lyceum_Globle.FoundationinBusiness">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Lyceum_Globle.FoundationinScience">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Teacher_Training_Diploma.Development_Education">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Teacher_Training_Diploma.Language_Teaching">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Teacher_Training_Diploma.School_Teaching">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.Teacher_Training_Diploma.Teaching_Mathematics">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="inquire"/>
+                    <include name="select"/>
+                    <include name="select_2"/>
+                    <include name="Submit"/>
+                </methods>
+            </class>
+            <class name="Test_Suite.subscribe">
+                <methods>
+                    <include name="SetupBrowserTest"/>
+                    <include name="subscriber"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
